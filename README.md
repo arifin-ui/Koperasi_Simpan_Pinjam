@@ -33,10 +33,10 @@ Untuk fitur-fiturnya ada :
 ![KOPERASI8](https://user-images.githubusercontent.com/62456215/88449628-7ef80b00-ce72-11ea-9cce-f685261480d6.png)
 
 # Form Utama -> Show Profil
-
+![Show Profil](https://user-images.githubusercontent.com/62456215/88449743-8b309800-ce73-11ea-8171-be166309985e.png)
 
 # Form Utama -> LOGOUT
-
+![logout](https://user-images.githubusercontent.com/62456215/88449740-88ce3e00-ce73-11ea-9ae0-0205a1b5e6e1.png)
 
 THANKS FOR VISIT
 
