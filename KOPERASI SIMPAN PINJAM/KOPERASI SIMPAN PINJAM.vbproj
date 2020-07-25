@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D0AA8D86-3390-4DE7-8230-AED55D1D26D3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>KOPERASI_SIMPAN_PINJAM.My.MyApplication</StartupObject>
+    <RootNamespace>KOPERASI_SIMPAN_PINJAM</RootNamespace>
+    <AssemblyName>KOPERASI SIMPAN PINJAM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>KOPERASI SIMPAN PINJAM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>KOPERASI SIMPAN PINJAM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1486564179-finance-saving_81499.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI">
+      <HintPath>D:\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.9.5\Assemblies\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="AxCrystal" />
+    <Import Include="CRVIEWERLib" />
+    <Import Include="Crystal" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.Odbc" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_login.Designer.vb">
+      <DependentUpon>Form_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_anggota.Designer.vb">
+      <DependentUpon>pop_up_anggota.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_anggota.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_dashboard.Designer.vb">
+      <DependentUpon>Form_dashboard.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module_koneksi.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pop_up_angsuran.Designer.vb">
+      <DependentUpon>pop_up_angsuran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_angsuran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_detail_angsuran.Designer.vb">
+      <DependentUpon>pop_up_detail_angsuran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_detail_angsuran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_laporan.Designer.vb">
+      <DependentUpon>pop_up_laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_pinjaman.Designer.vb">
+      <DependentUpon>pop_up_pinjaman.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_pinjaman.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pop_up_profil.Designer.vb">
+      <DependentUpon>pop_up_profil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pop_up_profil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form_login.resx">
+      <DependentUpon>Form_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_anggota.resx">
+      <DependentUpon>pop_up_anggota.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_dashboard.resx">
+      <DependentUpon>Form_dashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_angsuran.resx">
+      <DependentUpon>pop_up_angsuran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_detail_angsuran.resx">
+      <DependentUpon>pop_up_detail_angsuran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_laporan.resx">
+      <DependentUpon>pop_up_laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_pinjaman.resx">
+      <DependentUpon>pop_up_pinjaman.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pop_up_profil.resx">
+      <DependentUpon>pop_up_profil.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxCrystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="CRVIEWERLib">
+      <Guid>{C4847593-972C-11D0-9567-00A0C9273C2A}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Crystal">
+      <Guid>{00025600-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-payment-history-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-man-with-keyboard-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-print-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-auction-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-money-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1486564179-finance-saving_81499.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

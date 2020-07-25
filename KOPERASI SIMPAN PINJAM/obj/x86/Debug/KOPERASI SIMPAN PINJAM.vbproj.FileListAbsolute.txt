@@ -1,0 +1,35 @@
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.exe
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.pdb
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.xml
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\bin\Debug\Guna.UI.dll
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.Form1.resources
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.Resources.resources
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.vbproj.GenerateResource.Cache
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.exe
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.xml
+C:\Users\kumpu\AppData\Local\Temporary Projects\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.pdb
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.exe
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.xml
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.pdb
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.exe
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.pdb
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\KOPERASI SIMPAN PINJAM.xml
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\Guna.UI.dll
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.vbprojResolveAssemblyReference.cache
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.Resources.resources
+C:\Users\kumpu\documents\visual studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.vbproj.GenerateResource.Cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.Form_dashboard.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_anggota.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_pinjaman.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_detail_angsuran.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_angsuran.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\Interop.CRVIEWERLib.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI SIMPAN PINJAM.vbproj.ResolveComReference.cache
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_laporan.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\Interop.Crystal.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\bin\Debug\AxInterop.Crystal.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\Interop.Crystal.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\AxInterop.Crystal.dll
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.Form_login.resources
+C:\Users\kumpu\Documents\Visual Studio 2010\Projects\KOPERASI SIMPAN PINJAM\KOPERASI SIMPAN PINJAM\obj\x86\Debug\KOPERASI_SIMPAN_PINJAM.pop_up_profil.resources
